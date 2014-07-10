@@ -12,5 +12,9 @@ SoundMaster is a sound based app that contains various pre recorded sound snippe
 #Note
 There is no option to delete the sound, once the sound is recorded it stays in the app so use it carefully.
 
+#License
+The App can be downloaded and can be experimented.
+This app **must not be published** in any means without the consent of the developer.
+
 #Source
 This App was developed based on WP8 tutorials on [Channel9](http://channel9.msdn.com) by Bob Tabor.
