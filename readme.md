@@ -2,4 +2,4 @@
 This Repo contains Apps created for Windows Phone
 
 #Apps
-* SoundMaster - A sound based App containing sound templates and a recording option too.
+1. **SoundMaster** - A sound based App containing sound templates and a recording option too.
